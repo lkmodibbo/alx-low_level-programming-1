@@ -4,6 +4,7 @@
  * main - prints a text
  *Description: using the main function
  *
+ * this program prints "and that piece of art is useful" - Dora Korpar, 2015-10-19,"
  *Return always 1 (success)
  */
 int main(void)
