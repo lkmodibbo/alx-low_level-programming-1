@@ -4,7 +4,7 @@
  * main - prints a text
  *
  * Description: using the main function
- * this program prints "and that piece of art is useful\ - Dora Korpar,"
+ * this program prints "and that piece of art is useful,"
  * Return: 1
  */
 int main(void)
